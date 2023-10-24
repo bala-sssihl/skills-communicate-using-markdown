@@ -6,3 +6,6 @@
 # import pytorch
 import torch
 ```
+- [ ] Turn on GitHub pages
+- [ ] outline my portfolio
+- [ ] Introduce myself to the world
